@@ -1,0 +1,14 @@
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\bin\Debug\netcoreapp2.1\CMS_API2.deps.json
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\bin\Debug\netcoreapp2.1\CMS_API2.runtimeconfig.json
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\bin\Debug\netcoreapp2.1\CMS_API2.runtimeconfig.dev.json
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\bin\Debug\netcoreapp2.1\CMS_API2.dll
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.csproj.CoreCompileInputs.cache
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.RazorAssemblyInfo.cache
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.RazorAssemblyInfo.cs
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.AssemblyInfoInputs.cache
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.AssemblyInfo.cs
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.RazorTargetAssemblyInfo.cache
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\bin\Debug\netcoreapp2.1\CMS_API2.pdb
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.dll
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.pdb
+C:\Users\fran\Documents\GitHub\APICMSEUROVAL\CMS_API2\CMS_API2\obj\Debug\netcoreapp2.1\CMS_API2.csprojAssemblyReference.cache
